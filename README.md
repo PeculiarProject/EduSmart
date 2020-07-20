@@ -1,0 +1,2 @@
+# EduSmart
+School Management System
